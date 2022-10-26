@@ -19,7 +19,6 @@ Use Cypress Test Runner to execute the test and to generate the reports
 
 - To run through terminal/command line, please follow the below command
     - node_modules/.bin/cypress run --headed
-    - 
 
 ### What is this repository for? ###
 Assessment for VASTech
