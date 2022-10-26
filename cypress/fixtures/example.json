@@ -1,0 +1,6 @@
+{
+  "minPrice": "1000",
+  "maxPrice": "2500",
+  "sortHighTOLow": "Price: High to Low",
+  "sortLowToHigh": "Price: Low to High"
+}
