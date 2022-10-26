@@ -23,10 +23,10 @@ Use Cypress Test Runner to execute the test and to generate the reports
 ### What is this repository for? ###
 Assessment for VASTech
 Write an automated end-2-end UI test suite that would fully test:
-	•	the Sort by: Price High to Low feature. -> SortByFilter.js
-	•	the Sort by: Price Low to High feature. -> SortByFilter.js
-	•	End-2-end UI test suite that would fully test the Price Filter feature. -> PriceFilter.js
-	•	End-2-end UI test suite that would fully test the Rating Filter feature.-> RatingFilter.js
+	-	the Sort by: Price High to Low feature. -> SortByFilter.js
+	-	the Sort by: Price Low to High feature. -> SortByFilter.js
+	-	End-2-end UI test suite that would fully test the Price Filter feature. -> PriceFilter.js
+	-	End-2-end UI test suite that would fully test the Rating Filter feature.-> RatingFilter.js
 
 
 
